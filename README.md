@@ -32,6 +32,3 @@ And run evaluation (concurrently):
 To keep track of training and evaluation, it's a good idea to launch tensorboard:
 
 `tensorboard --logdir models/lbau_2bar_big/train`
-
-
-Maintainer note (lm-walk r8): the humanize.py script is maintained by Piet.
